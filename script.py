@@ -1,6 +1,6 @@
 import argparse
 import yaml
-print("a")
+print("affff")
 def assemble(input_file, output_file, log_file):
     with open(input_file, 'r') as f:
         instructions = f.readlines()
